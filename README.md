@@ -1,6 +1,6 @@
 # Francis Lucille's Questions and Answers
 
-Backup of Francis Lucille's old blog.
+Backup of Francis Lucille's old blog. [Hosted here](http://francis.ugjka.net/)
 
 Extracted from Wayback Machine and processed by ugjka.
 
