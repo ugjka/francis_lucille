@@ -1,12 +1,12 @@
 # Francis Lucille's Questions and Answers
 
-Backup of Francis Lucille's old blog. [Hosted here](http://francis.ugjka.net/)
+Backup of Francis Lucille's old blog.
 
 Extracted from Wayback Machine and processed by ugjka.
 
 Copyright belongs to Francis Lucille.
 
-![francis lucille](https://img.ugjka.net/pdxZIVIN.jpg)
+![francis lucille](https://i.imgur.com/tLaNKul.jpg)
 
 ## Who is Francis?
 
